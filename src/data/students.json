@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "notes": [15, 18, 20],
+        "age": 20,
+        "major": "Computer Science"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "notes": [12, 14, 16],
+        "age": 22,
+        "major": "Mathematics"
+    }
+]
